@@ -1,6 +1,6 @@
 import React from 'react';
 import One  from '@/image/service/One.png'
-import Two  from '@/image/service/Two.png'
+import Two  from '@/image/service/two.png'
 import Three  from '@/image/service/three.png'
 import Image from 'next/image';
 const Services = () => {
