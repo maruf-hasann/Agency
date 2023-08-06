@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*64ULNpU7hcIz4K_7xWPdEw.jpeg",
+      "title": "User-Friendly Application Designs",
+      "des": "Creative and practical app design projects by tubik agency: ideas on mobile user experience that solve divere users’ problems."
+    },
+    {
+      "id": 2,
+      "image": "https://miro.medium.com/v2/resize:fit:2000/format:webp/1*kQ-O3FXZugNitT0QurTqkA.png",
+      "title": "You Need to Know About the Design",
+      "des": "Creative and practical app design projects by tubik agency: ideas on mobile user experience that solve divere users’ problems."
+    },
+    {
+      "id": 3,
+      "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*efAg7IIaBhMQ-nzVs5UsDQ.png",
+      "title": "User-Friendly  Website Design",
+      "des": "Creative and practical app design projects by tubik agency: ideas on mobile user experience that solve divere users’ problems."
+    }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
