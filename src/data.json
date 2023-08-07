@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
     {
       "id": 1,
       "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*64ULNpU7hcIz4K_7xWPdEw.jpeg",
@@ -18,64 +17,4 @@
       "title": "User-Friendly  Website Design",
       "des": "Creative and practical app design projects by tubik agency: ideas on mobile user experience that solve divere users’ problems."
     }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "name": "I phone",
-      "price": 33,
-      "category": "mobile"
-    },
-    {
-      "id": 2,
-      "name": "Mi",
-      "price": 33,
-      "category": "mobile"
-    },
-    {
-      "id": 3,
-      "name": "Redmi",
-      "price": 33,
-      "category": "mobile"
-    },
-    {
-      "id": 4,
-      "name": "Mac",
-      "price": 33,
-      "category": "laptop"
-    },
-    {
-      "id": 5,
-      "name": "Lenovo",
-      "price": 33,
-      "category": "laptop"
-    },
-    {
-      "id": 6,
-      "name": "Hp",
-      "price": 33,
-      "category": "laptop"
-    },
-    {
-      "id": 7,
-      "name": "Watch",
-      "price": 33,
-      "category": "watch"
-    },
-    {
-      "id": 8,
-      "name": "AppleWatch",
-      "price": 33,
-      "category": "watch"
-    },
-    {
-      "id": 9,
-      "name": "Camera",
-      "price": 33,
-      "category": "camera"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
